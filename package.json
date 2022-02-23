@@ -54,5 +54,7 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "author": "aulyaaryansyah-git <aulyaaryansyahmail@gmail.com>",
+  "private": false
 }
